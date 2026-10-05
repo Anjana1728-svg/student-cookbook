@@ -70,3 +70,8 @@ Create the empty repository on github.com first and set it to **Public**.
 | Akshay Jangid | Scrum Master and Backend Lead | Sprint planning, stand-ups, PHP for accounts, meal planner and security |
 | Abhishek Soni | Frontend Lead | HTML5 structure, CSS3 design, JavaScript and responsive layout |
 | Anjana | Database and GitHub Lead | MySQL database, SQL queries, sample data and GitHub repository |
+
+
+## Development methodology
+
+We followed Agile Scrum with five sprints. Each sprint delivered working pages that were reviewed with our tutor in class. Code was managed in this GitHub repository, with each team member contributing.
