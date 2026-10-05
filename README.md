@@ -7,3 +7,10 @@ A web information system that helps students find cheap recipes, plan a week of 
 
 All website code is in the [student-cookbook](student-cookbook) folder.
 See [student-cookbook/README.md](student-cookbook/README.md) for features, database tables and installation steps.
+
+
+   ## Credits
+
+   Fonts: Bricolage Grotesque and Atkinson Hyperlegible from Google Fonts.
+   Recipe images: generated with [Image studio].
+   Design and front-end code: written by the team.
