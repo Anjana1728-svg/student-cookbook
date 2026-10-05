@@ -62,3 +62,11 @@ git push -u origin main
 ```
 
 Create the empty repository on github.com first and set it to **Public**.
+
+## Team and roles
+
+| Member | Role | Main responsibilities |
+|---|---|---|
+| Akshay Jangid | Scrum Master and Backend Lead | Sprint planning, stand-ups, PHP for accounts, meal planner and security |
+| Abhishek Soni | Frontend Lead | HTML5 structure, CSS3 design, JavaScript and responsive layout |
+| Anjana | Database and GitHub Lead | MySQL database, SQL queries, sample data and GitHub repository |
